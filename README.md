@@ -1,6 +1,6 @@
 # MSI-MAG-B560M-i5-11400
 MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 
-待填坑。。。
-
 适用于OpenCore-0.7.7
+
+待填坑。。。
