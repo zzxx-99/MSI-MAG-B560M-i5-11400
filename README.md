@@ -17,7 +17,7 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 | 显卡  | I5-11400 核显 UHD730 + NVDIA GeForce GT 710|
 | 网卡  | 板载AX210 |
 | 声卡  | 板载Realtek ALC897 |
-| 硬盘  | 三星970 EVO Plus |
+| 硬盘  | 三星970 EVO Plus 1TB (最新固件版本`2B2QEXM7`) |
 | 机型  | iMac20,1 |
 
 网上说 `B560M` 核显无法输出，所以得有免驱的独显，否则安装后面会黑屏，但是独显开机后，核显确依然是可以工作的 ◔ ‸◔?
