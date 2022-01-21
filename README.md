@@ -11,10 +11,11 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 |  配置   | 型号  |
 |  ----  | ----  |
 | CPU  | I5-11400 |
-| 主板  | B460M 迫击炮 WiFi|
+| 主板  | MSI B460M 迫击炮 WiFi|
 | 内存  | 三星2400 8G |
 | 显卡  | I5-11400 核显 UHD730 + NVDIA GeForce GT 710|
 | 网卡  | 板载AX210 |
+| 声卡  | 板载Realtek ALC897 |
 | 硬盘  | 三星970 EVO Plus |
 | 机型  | iMac20,1 |
 
