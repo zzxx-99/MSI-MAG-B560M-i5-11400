@@ -33,7 +33,9 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 - [x] 接力和隔空投送
 
 [❌] 板载蓝牙
+
 [❌] 核显硬件加速
+
 ### BIOS设置
 
 - USB设备从S3/S4/S5唤醒：允许
