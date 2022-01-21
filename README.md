@@ -68,5 +68,21 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 - 核显不能驱动
 - - -
 
+# 关于本机
+
+![](./images/p1.png)
+![](./images/p2.png)
+![](./images/p3.png)
+![](./images/p4.png)
+![](./images/p5.png)
+![](./images/p6.png)
+![](./images/p7.png)
+![](./images/p8.png)
+![](./images/p9.png)
+![](./images/p10.png)
+![](./images/p11.png)
+![](./images/p12.png)
+
+---
 
 其余待填坑。。。
