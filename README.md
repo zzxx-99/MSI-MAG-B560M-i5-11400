@@ -5,6 +5,7 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 ### OpenCore-0.7.7
 
 安装 `macOS Big Sur 11.6`
+
 三码: `Hackintool` 获取
 ### 硬件配置
 
