@@ -2,6 +2,15 @@
 MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 
 > PS: 参考了很多大佬的资料，感谢大佬，我是大自然的搬运工。
+
+### 更新
+
+- 2021.1.22
+
+macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
+
+> PS: 使用`OCAT`推荐设置了一下`quirks`之后开机报错 `OCB:StartImage failed - Aborted`的问题没有出现过了.
+
 ### OpenCore-0.7.7
 
 安装 `macOS Big Sur 11.6`
