@@ -5,6 +5,10 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 
 ### 更新
 
+- 2021.1.24 
+
+定制了USB之后蓝牙无法开启的问题得到了修复
+
 - 2021.1.22
 
 macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
@@ -31,7 +35,6 @@ macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
 
 网上说 `B560M` 核显无法输出，所以得有免驱的独显，否则安装后面会黑屏，嗯，遇到了。
 
-插上的USB口都能显示速率所以没有定制USB
 ### 功能测试
 
 - [x] 板载声卡
@@ -84,6 +87,7 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 ![](./images/p1.png)
 ![](./images/p2.png)
 ![](./images/p3.png)
+![](./images/p3-1.png)
 ![](./images/p4.png)
 ![](./images/p5.png)
 ![](./images/p6.png)
