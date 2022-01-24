@@ -5,21 +5,22 @@ MSI-MAG-B560M-MORTAR-WIFI-i5-11400-BIG-SUR
 
 ### 更新
 
-- 2021.1.24 
+- 2021.1.24 ---- OpenCore-0.7.7
 
 定制了USB之后蓝牙无法开启的问题得到了修复
 
-- 2021.1.22
+- 2021.1.22 ---- OpenCore-0.7.7
 
 macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
 
 > PS: 使用`OCAT`推荐设置了一下`quirks`之后开机报错 `OCB:StartImage failed - Aborted`的问题没有出现过了.
 
-### OpenCore-0.7.7
+### 当前: OpenCore-0.7.7
 
 安装 `macOS Big Sur 11.6`
 
 三码: `Hackintool` 获取
+
 ### 硬件配置
 
 |  配置   | 型号  |
@@ -43,8 +44,7 @@ macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
 - [x] CPU 变频
 - [x] 所有USB端口
 - [x] 接力和隔空投送
-
-[❌] 板载蓝牙
+- [x] 板载蓝牙
 
 [❌] 核显硬件加速
 
@@ -74,11 +74,12 @@ Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsU
 
 - `config.plist`勾上仿冒苹果快捷键`PollAppleHotKey`，在启动选择界面，先选中要启动的项，然后按键盘的 `Ctrl` + `Enter` 进入系统即可
 
+- 也有看到说在 `设置`-`启动磁盘` 可选择默认启动项,修改后重启
+
+![](./images/p0.png)
 
 ### 未完善的地方
 
-- 蓝牙不能开启
-- 从OC引导界面进 `MACOS` 系统有一定概率报错 `OCB:StartImage failed - Aborted`
 - 核显不能驱动
 - - -
 
