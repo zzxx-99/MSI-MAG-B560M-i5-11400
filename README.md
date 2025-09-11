@@ -26,7 +26,7 @@ macOS big sur 11.6 → macOS big sur 11.6.2       一切正常
 |  配置   | 型号  |
 |  ----  | ----  |
 | CPU  | I5-11400 |
-| 主板  | MSI B460M 迫击炮 WiFi|
+| 主板  | MSI B560M 迫击炮 WiFi|
 | 内存  | 三星2400 8G |
 | 显卡  | I5-11400 核显 UHD730 + NVDIA GeForce GT 710|
 | 网卡  | 板载AX210 |
